@@ -1,0 +1,22 @@
+.navbar{
+    margin-bottom: 1.5rem;
+}
+
+.cart-info{
+    font-size: 1.5rem;
+    color:rgb(59, 59, 59)
+}
+
+.cart-icon{
+    color: cadetblue;
+    font-size: 2.2rem;
+    margin-right: 7px;
+}
+
+.navbar{
+    border-bottom:1px solid #ccc;
+}
+
+h1{
+   color:rgb(47, 47, 47); 
+}
